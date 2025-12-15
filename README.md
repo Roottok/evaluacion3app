@@ -2,15 +2,15 @@
 
 ## 📌 Informe General del Proyecto
 
-Esta aplicación móvil, **"EVA-Libreria"**, es la continuación de la Evaluación 1. Fue desarrollada utilizando **React Native**, **Expo** y **TypeScript**, manteniendo el flujo de autenticación seguro e implementando un módulo completo de **Lista de Tareas (To-Do List)**.
+Esta aplicación móvil, **"EVA-Libreria"**, es la continuación de la Evaluación 1. Fue desarrollada utilizando **React Native**, **Expo** y **TypeScript**, manteniendo el flujo de autenticación seguro e implementando un módulo completo.
 
-CONSUMO API 
+Consumo API
 
 ***
 
-## ⚙️ Requisitos Técnicos Implementados (Evaluación 2)
+## ⚙️ Requisitos Técnicos Implementados (Evaluación 3)
 
-### 1. Funcionalidades de Tareas (TODO List)
+### 1. Funcionalidades de Tareas
 
 * **Creación de Tareas:** Se capturan y asocian a la tarea:
     * Título.
@@ -25,9 +25,9 @@ CONSUMO API
 * **Persistencia Local:** Los datos de la lista de tareas (título, ubicación, estado) se guardan de forma persistente utilizando **`AsyncStorage`**.
 * **Almacenamiento de Fotos:** La lógica inicial de `expo-file-system` para guardar las fotos en el sistema de archivos local se implementó. *[Enlace al video]* demuestra que la foto se carga correctamente en la tarea.
 
-### 3. Sistema de Autenticación Evaluacion 3
+### 3. Sistema de Autenticación
 
-* **Login Seguro:** La autenticación se realiza con la autenticacion API
+* **Login Seguro:** La autenticación se realiza con API
 * **Estructura de Rutas:** Se mantiene la navegación modular con **Expo Router** y las pestañas **Home** (Lista de Tareas) y **Perfil** (muestra el email).
 
 ### Reflexión sobre el Uso de Herramientas de Asistencia 🤖
@@ -70,5 +70,7 @@ La IA fue empleada como herramienta de consulta para optimizar las estructuras d
 
 | Detalle | Enlace |
 | :--- | :--- |
-| **Repositorio GIT** | https://github.com/Roottok/eva2desarrolloaplicaciones |
-| **Video Demostrativo** | https://www.loom.com/share/79e118b0b37243d3b4e8280c80510d55 |
+
+GITHUB:https://github.com/Roottok/evaluacion3app
+
+VIDEO:https://drive.google.com/file/d/1yewFEnAs1BDzWZlHPk92zReLVFx_cez6/view?usp=drivesdk
